@@ -41,6 +41,6 @@
         <metal:block define-slot="content">Content goes here...</metal:block>
       </div>
     </div>
-
+    Octomotron is neat!
   </body>
 </html>
